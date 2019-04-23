@@ -1,5 +1,5 @@
 # Vislice
-marjan šarec
+Borut pahor
 Jurij Vega
 Ivan Vidav
 Matija Pretnar
